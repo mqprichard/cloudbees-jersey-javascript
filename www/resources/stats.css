@@ -1,0 +1,6 @@
+#stats { font-family:Trebuchet MS, Arial, Helvetica, sans-serif; width:100%; border-collapse:collapse; }
+#stats h3 { font-size:1.4em; border:none; margin-bottom:3px; }
+#stats td, #stats th { font-size:1.2em; border:1px solid #696969; padding:3px 7px 2px 7px; }
+#stats th { text-align:left; color:#fff; background-color:#808080; }
+#stats tr.alt td { color:#000; background-color:#DCDCDC; }
+

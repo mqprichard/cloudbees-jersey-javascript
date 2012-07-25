@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<cloudbees-web-app xmlns="http://www.cloudbees.com/xml/webapp/1">
+  <resource name="jdbc/countries" auth="Container" type="javax.sql.DataSource">
+    <param name="username" value="mp_bees" />
+    <param name="password" value="welcome1" />
+    <param name="url" value="jdbc:cloudbees://mp_countries" />
+  </resource>  
+</cloudbees-web-app>
